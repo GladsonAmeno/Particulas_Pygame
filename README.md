@@ -1,4 +1,7 @@
 # Sistema de Partículas em Python
+<p align="center">
+  <img width="1000" height="300" src="particulas.gif">
+ </p>
 
 Este é um programa simples em Python que simula um sistema de partículas usando a biblioteca pygame. As partículas são exibidas na tela e se movem aleatoriamente, criando um efeito visual interessante.
 
